@@ -1,3 +1,8 @@
+# Folders with data for VoPra85
+calibration_files/
+M29/
+M39/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
