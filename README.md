@@ -4,14 +4,9 @@ Basic git repo to just keep our files and python notebooks and everything organi
 
 ## How to use git or how to download shit from here
 
-There are two main ways:
-
-1. Use git shell on windows since none of y'all be using Linux ([git_for_windows](https://gitforwindows.org/)) Download that shit, open the git shell and type in:
+Use the Windows Powershell (it should be installed on your system [just like Uno]) and basically type in:
 
 `git clone https://github.com/leart-zuka-titanom/VoPra_RakZukIta.git`
- 
-
-2. Use the Windows Powershell and basically type in the same commands (why not use the Powershell in the first place, funny you ask, well basically cuz it's ass but it's more than enough for what we're gonna be using it I just don't like it)
 
 
 ## How do we add files and shit here
